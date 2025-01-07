@@ -2,7 +2,7 @@
 
 ## Comandos do git
 
-* git init- inicializa o repositorio;
+* git init - inicializa o repositorio;
 
 * git add - adicionar uma modificação ao arquivo;
 
@@ -19,3 +19,8 @@
 * git pull - traz o que esta no respositorio remoto(feito por outra pessoa) para o repositorio local;
 (É importante verificar com o git fetch e git diff o que foi atualizado para após utilizar o git pull.)
 
+* git branch (adicionando um nome, criamos uma ramificação)- ramificações do codigo que estamos fazendo;
+
+* git checkout (local) - para mudar de local no arquivo;
+
+* git merge (nome da outra branch) - utilizado para juntar as outras ramificações do projeto.
