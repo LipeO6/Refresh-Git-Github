@@ -1,0 +1,1 @@
+* Hora de usar o git merge
