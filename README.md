@@ -13,3 +13,9 @@
 * git log - mostra um log do arquivo;
 
 * git restore - restaura o arquivo do ultimo add;
+
+* git fetch - quais modificações estão para serem feitas;
+
+* git pull - traz o que esta no respositorio remoto(feito por outra pessoa) para o repositorio local.
+É importante verificar com o git fetch e git diff o que foi atualizado para após utilizar o git pull.
+
